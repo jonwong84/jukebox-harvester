@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Harvester.Data/Harvester.Data.csproj" />
+    <Project Path="src/Harvester.Service/Harvester.Service.csproj" />
+  </Folder>
+</Solution>
