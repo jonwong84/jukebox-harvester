@@ -1,0 +1,121 @@
+{
+  "_fixture": {
+    "sources": [],
+    "trimmed": false,
+    "synthetic": true,
+    "note": "Synthetic fixture for bridging: a1/a2 share titles; a2/a3 share recording IDs."
+  },
+  "releases": [
+    {
+      "id": "00000000-0000-4000-8000-0000000000a1",
+      "title": "Synthetic Album",
+      "status": "Official",
+      "disambiguation": "synthetic",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "One",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000101"
+              }
+            },
+            {
+              "position": 2,
+              "number": "2",
+              "title": "Two",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000102"
+              }
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Three",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000103"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000000000a2",
+      "title": "Synthetic Album",
+      "status": "Official",
+      "disambiguation": "synthetic",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "One",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000201"
+              }
+            },
+            {
+              "position": 2,
+              "number": "2",
+              "title": "Two",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000202"
+              }
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Three",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000203"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000000-0000-4000-8000-0000000000a3",
+      "title": "Synthetic Album",
+      "status": "Official",
+      "disambiguation": "synthetic",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "Four",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000201"
+              }
+            },
+            {
+              "position": 2,
+              "number": "2",
+              "title": "Five",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000202"
+              }
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Six",
+              "recording": {
+                "id": "00000000-0000-4000-8000-000000000203"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

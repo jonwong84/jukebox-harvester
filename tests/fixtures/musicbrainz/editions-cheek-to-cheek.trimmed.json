@@ -1,0 +1,2440 @@
+{
+  "_fixture": {
+    "sources": [
+      "editions-cheek-to-cheek.json"
+    ],
+    "recorded": "2026-10-13",
+    "trimmed": true,
+    "synthetic": false,
+    "note": "Core fields only."
+  },
+  "releases": [
+    {
+      "media": [
+        {
+          "tracks": [
+            {
+              "number": "1",
+              "position": 1,
+              "length": 123000,
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "title": "Anything Goes"
+            },
+            {
+              "title": "Cheek to Cheek",
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170000,
+              "position": 2,
+              "number": "2"
+            },
+            {
+              "number": "3",
+              "position": 3,
+              "length": 156000,
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "title": "Don't Wait Too Long"
+            },
+            {
+              "title": "I Can't Give You Anything But Love",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193000,
+              "position": 4,
+              "number": "4"
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "title": "Nature Boy",
+              "length": 248000,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              }
+            },
+            {
+              "position": 6,
+              "number": "6",
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "length": 131000,
+              "title": "Goody Goody"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "length": 190000,
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "title": "Ev'ry Time We Say Goodbye"
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "length": 117000,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "title": "Firefly"
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "length": 236000,
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "title": "I Won't Dance"
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "title": "They All Laughed",
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108000
+            },
+            {
+              "title": "Lush Life",
+              "length": 254000,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "number": "11",
+              "position": 11
+            },
+            {
+              "length": 229000,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "title": "Sophisticated Lady",
+              "number": "12",
+              "position": 12
+            },
+            {
+              "number": "13",
+              "position": 13,
+              "length": 126000,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let's Face the Music and Dance"
+            },
+            {
+              "number": "14",
+              "position": 14,
+              "title": "But Beautiful",
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              }
+            },
+            {
+              "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+              "length": 143000,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "number": "15",
+              "position": 15
+            }
+          ],
+          "format": "Digital Media"
+        }
+      ],
+      "disambiguation": "deluxe",
+      "country": "US",
+      "title": "Cheek to Cheek",
+      "barcode": "00602547011732",
+      "date": "2014-09-22",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "status": "Official",
+      "id": "23c2e519-26c7-4d83-800b-ab8965be4824"
+    },
+    {
+      "barcode": "4988005848567",
+      "date": "2014-09-24",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "id": "2fc1272c-08d0-4a6c-8e2f-9ddda6d28d40",
+      "status": "Official",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "number": "1",
+              "position": 1,
+              "title": "Anything Goes",
+              "length": 123000,
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              }
+            },
+            {
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170000,
+              "title": "Cheek to Cheek",
+              "position": 2,
+              "number": "2"
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Don’t Wait Too Long",
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "length": 156000
+            },
+            {
+              "title": "I Can’t Give You Anything but Love",
+              "length": 193000,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "number": "4",
+              "position": 4
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "length": 248000,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "title": "Nature Boy"
+            },
+            {
+              "title": "Goody Goody",
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "length": 131000,
+              "position": 6,
+              "number": "6"
+            },
+            {
+              "position": 7,
+              "number": "7",
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "length": 190000,
+              "title": "Ev’ry Time We Say Goodbye"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117000,
+              "title": "Firefly",
+              "position": 8,
+              "number": "8"
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236000
+            },
+            {
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108000,
+              "title": "They All Laughed",
+              "position": 10,
+              "number": "10"
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "title": "Lush Life",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254000
+            },
+            {
+              "position": 12,
+              "number": "12",
+              "title": "Sophisticated Lady",
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229000
+            },
+            {
+              "position": 13,
+              "number": "13",
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 126000,
+              "title": "Let’s Face the Music and Dance"
+            },
+            {
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "title": "But Beautiful",
+              "number": "14",
+              "position": 14
+            },
+            {
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143000,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "position": 15,
+              "number": "15"
+            },
+            {
+              "length": 154000,
+              "recording": {
+                "id": "b99be668-5fa8-4122-997e-598e957e2493"
+              },
+              "title": "On a Clear Day (You Can See Forever)",
+              "number": "16",
+              "position": 16
+            },
+            {
+              "position": 17,
+              "number": "17",
+              "recording": {
+                "id": "def88090-3a7c-4a23-9e1d-80f342e345a5"
+              },
+              "length": 187000,
+              "title": "Bewitched, Bothered and Bewildered"
+            },
+            {
+              "length": 102000,
+              "recording": {
+                "id": "1247e8ab-d2a1-4158-bcfa-57b29522f235"
+              },
+              "title": "Lady’s in Love With You",
+              "number": "18",
+              "position": 18
+            },
+            {
+              "number": "19",
+              "position": 19,
+              "length": 197000,
+              "recording": {
+                "id": "c9530fe3-70a7-47e5-aa7e-713839fbb97a"
+              },
+              "title": "The Lady Is a Tramp"
+            }
+          ]
+        }
+      ],
+      "disambiguation": "",
+      "country": "JP",
+      "title": "Cheek to Cheek"
+    },
+    {
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        }
+      ],
+      "id": "37e51650-2043-42dc-aed1-e4b36319378f",
+      "status": "Official",
+      "barcode": "00602537972210",
+      "date": "2014-09-23",
+      "country": "US",
+      "title": "Cheek to Cheek",
+      "disambiguation": "",
+      "media": [
+        {
+          "tracks": [
+            {
+              "number": "1",
+              "position": 1,
+              "length": 123000,
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "title": "Anything Goes"
+            },
+            {
+              "title": "Cheek to Cheek",
+              "length": 170000,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "number": "2",
+              "position": 2
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Nature Boy",
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248000
+            },
+            {
+              "length": 193000,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "title": "I Can’t Give You Anything but Love",
+              "number": "4",
+              "position": 4
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "length": 236000,
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "title": "I Won’t Dance"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117000,
+              "title": "Firefly",
+              "position": 6,
+              "number": "6"
+            },
+            {
+              "position": 7,
+              "number": "7",
+              "title": "Lush Life",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254000
+            },
+            {
+              "position": 8,
+              "number": "8",
+              "title": "Sophisticated Lady",
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229000
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 131000,
+              "title": "Let’s Face the Music and Dance"
+            },
+            {
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "title": "But Beautiful",
+              "number": "10",
+              "position": 10
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143000
+            },
+            {
+              "title": "Bang Bang (My Baby Shot Me Down)",
+              "length": 223000,
+              "recording": {
+                "id": "91fb347e-8157-43f2-8d6c-08cb758eada8"
+              },
+              "number": "12",
+              "position": 12
+            }
+          ],
+          "format": "Digital Media"
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123973,
+              "title": "Anything Goes"
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "title": "Cheek to Cheek",
+              "length": 170546,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              }
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "length": 156266,
+              "title": "Don’t Wait Too Long"
+            },
+            {
+              "position": 4,
+              "number": "4",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193306,
+              "title": "I Can’t Give You Anything But Love"
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "title": "Nature Boy",
+              "length": 248426,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              }
+            },
+            {
+              "number": "6",
+              "position": 6,
+              "length": 131826,
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "title": "Goody Goody"
+            },
+            {
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "length": 190293,
+              "title": "Ev’ry Time We Say Goodbye",
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117640,
+              "title": "Firefly",
+              "position": 8,
+              "number": "8"
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236720
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "title": "They All Laughed",
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108560
+            },
+            {
+              "title": "Lush Life",
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "number": "11",
+              "position": 11
+            },
+            {
+              "number": "12",
+              "position": 12,
+              "title": "Sophisticated Lady",
+              "length": 229453,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              }
+            },
+            {
+              "title": "Let’s Face the Music and Dance",
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "number": "13",
+              "position": 13
+            },
+            {
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244080,
+              "title": "But Beautiful",
+              "position": 14,
+              "number": "14"
+            },
+            {
+              "title": "It Don't Mean a Thing (If It Ain’t Got That Swing)",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143706,
+              "position": 15,
+              "number": "15"
+            }
+          ]
+        }
+      ],
+      "disambiguation": "deluxe edition",
+      "title": "Cheek to Cheek",
+      "country": "US",
+      "date": "2014-09-23",
+      "barcode": "602537972296",
+      "status": "Official",
+      "id": "52ea38b2-e03f-4e63-86b9-91887734eed0",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ]
+    },
+    {
+      "barcode": "00602537972272",
+      "date": "2014-09-23",
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        },
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        },
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "id": "5fabd0d8-6014-4886-a605-af3c0b7f2998",
+      "status": "Official",
+      "media": [
+        {
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123000
+            },
+            {
+              "length": 170000,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "title": "Cheek to Cheek",
+              "number": "2",
+              "position": 2
+            },
+            {
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "length": 156000,
+              "title": "Don’t Wait Too Long",
+              "position": 3,
+              "number": "3"
+            },
+            {
+              "position": 4,
+              "number": "4",
+              "title": "I Can’t Give You Anything but Love",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193000
+            },
+            {
+              "length": 248000,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "title": "Nature Boy",
+              "number": "5",
+              "position": 5
+            },
+            {
+              "position": 6,
+              "number": "6",
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "length": 131000,
+              "title": "Goody Goody"
+            },
+            {
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "length": 190000,
+              "title": "Ev’ry Time We Say Goodbye",
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117000,
+              "title": "Firefly",
+              "position": 8,
+              "number": "8"
+            },
+            {
+              "length": 236000,
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "title": "I Won’t Dance",
+              "number": "9",
+              "position": 9
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108000,
+              "title": "They All Laughed"
+            },
+            {
+              "length": 254000,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "title": "Lush Life",
+              "number": "11",
+              "position": 11
+            },
+            {
+              "position": 12,
+              "number": "12",
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229000,
+              "title": "Sophisticated Lady"
+            },
+            {
+              "number": "13",
+              "position": 13,
+              "length": 126000,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let’s Face the Music and Dance"
+            },
+            {
+              "title": "But Beautiful",
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "number": "14",
+              "position": 14
+            },
+            {
+              "position": 15,
+              "number": "15",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143000,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)"
+            },
+            {
+              "title": "Bang Bang (My Baby Shot Me Down)",
+              "recording": {
+                "id": "91fb347e-8157-43f2-8d6c-08cb758eada8"
+              },
+              "length": 223000,
+              "position": 16,
+              "number": "16"
+            }
+          ],
+          "format": "Digital Media"
+        }
+      ],
+      "country": "US",
+      "title": "Cheek to Cheek",
+      "disambiguation": "deluxe edition"
+    },
+    {
+      "barcode": "602537998845",
+      "date": "2014",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "id": "7094e645-12d5-4b3e-a1f0-f41c68f17bab",
+      "status": "Official",
+      "media": [
+        {
+          "tracks": [
+            {
+              "title": "Anything Goes",
+              "length": 123973,
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "number": "1",
+              "position": 1
+            },
+            {
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170546,
+              "title": "Cheek to Cheek",
+              "position": 2,
+              "number": "2"
+            },
+            {
+              "length": 156266,
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "title": "Don’t Wait Too Long",
+              "number": "3",
+              "position": 3
+            },
+            {
+              "length": 193306,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "title": "I Can’t Give You Anything but Love",
+              "number": "4",
+              "position": 4
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "length": 248426,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "title": "Nature Boy"
+            },
+            {
+              "position": 6,
+              "number": "6",
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "length": 131826,
+              "title": "Goody Goody"
+            },
+            {
+              "title": "Ev’ry Time We Say Goodbye",
+              "length": 190293,
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "number": "7",
+              "position": 7
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "length": 117640,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "title": "Firefly"
+            },
+            {
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236720,
+              "position": 9,
+              "number": "9"
+            },
+            {
+              "number": "10",
+              "position": 10,
+              "title": "They All Laughed",
+              "length": 108560,
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              }
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "title": "Lush Life",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254693
+            },
+            {
+              "number": "12",
+              "position": 12,
+              "title": "Sophisticated Lady",
+              "length": 229453,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              }
+            },
+            {
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 126760,
+              "title": "Let’s Face the Music and Dance",
+              "position": 13,
+              "number": "13"
+            },
+            {
+              "position": 14,
+              "number": "14",
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244080,
+              "title": "But Beautiful"
+            },
+            {
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143400,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "position": 15,
+              "number": "15"
+            },
+            {
+              "length": 154160,
+              "recording": {
+                "id": "b99be668-5fa8-4122-997e-598e957e2493"
+              },
+              "title": "On a Clear Day (You Can See Forever)",
+              "number": "16",
+              "position": 16
+            },
+            {
+              "position": 17,
+              "number": "17",
+              "recording": {
+                "id": "def88090-3a7c-4a23-9e1d-80f342e345a5"
+              },
+              "length": 187160,
+              "title": "Bewitched, Bothered and Bewildered"
+            },
+            {
+              "title": "The Lady Is a Tramp",
+              "length": 196973,
+              "recording": {
+                "id": "c9530fe3-70a7-47e5-aa7e-713839fbb97a"
+              },
+              "number": "18",
+              "position": 18
+            }
+          ],
+          "format": "CD"
+        }
+      ],
+      "country": "XE",
+      "title": "Cheek to Cheek",
+      "disambiguation": "limited deluxe edition"
+    },
+    {
+      "media": [
+        {
+          "tracks": [
+            {
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123840,
+              "position": 1,
+              "number": "1"
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "title": "Cheek to Cheek",
+              "length": 170573,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              }
+            },
+            {
+              "number": "3",
+              "position": 3,
+              "title": "Nature Boy",
+              "length": 248506,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              }
+            },
+            {
+              "number": "4",
+              "position": 4,
+              "title": "I Can’t Give You Anything but Love",
+              "length": 193480,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              }
+            },
+            {
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236680,
+              "title": "I Won’t Dance",
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117573,
+              "title": "Firefly",
+              "position": 6,
+              "number": "6"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "title": "Lush Life"
+            },
+            {
+              "length": 229466,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "title": "Sophisticated Lady",
+              "number": "8",
+              "position": 8
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "title": "Let’s Face the Music and Dance",
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              }
+            },
+            {
+              "length": 244040,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "title": "But Beautiful",
+              "number": "10",
+              "position": 10
+            },
+            {
+              "number": "11",
+              "position": 11,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "length": 143746,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              }
+            }
+          ],
+          "format": "CD"
+        }
+      ],
+      "disambiguation": "",
+      "country": "DE",
+      "title": "Cheek to Cheek",
+      "barcode": "602537972289",
+      "date": "2014-09-19",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "id": "74c0deef-6915-4f06-bf1a-1ac26db0d983",
+      "status": "Official"
+    },
+    {
+      "disambiguation": "",
+      "country": "US",
+      "title": "Cheek to Cheek",
+      "media": [
+        {
+          "tracks": [
+            {
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123840,
+              "title": "Anything Goes",
+              "position": 1,
+              "number": "1"
+            },
+            {
+              "position": 2,
+              "number": "2",
+              "title": "Cheek to Cheek",
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170573
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248506,
+              "title": "Nature Boy"
+            },
+            {
+              "title": "I Can't Give You Anything but Love",
+              "length": 193480,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "number": "4",
+              "position": 4
+            },
+            {
+              "position": 5,
+              "number": "5",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236680,
+              "title": "I Won't Dance"
+            },
+            {
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117573,
+              "title": "Firefly",
+              "position": 6,
+              "number": "6"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "title": "Lush Life",
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              }
+            },
+            {
+              "position": 8,
+              "number": "8",
+              "title": "Sophisticated Lady",
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229466
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "title": "Let's Face the Music and Dance",
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              }
+            },
+            {
+              "title": "But Beautiful",
+              "length": 244040,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "number": "10",
+              "position": 10
+            },
+            {
+              "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+              "length": 143746,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "number": "11",
+              "position": 11
+            }
+          ],
+          "format": "CD"
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        },
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        },
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "status": "Official",
+      "id": "765f7222-a933-4bff-bd30-f869905873c8",
+      "barcode": "602537972289",
+      "date": "2014-09-23"
+    },
+    {
+      "disambiguation": "",
+      "country": "US",
+      "title": "Cheek to Cheek",
+      "media": [
+        {
+          "format": "12\" Vinyl",
+          "tracks": [
+            {
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 124000,
+              "position": 1,
+              "number": "A1"
+            },
+            {
+              "number": "A2",
+              "position": 2,
+              "title": "Cheek to Cheek",
+              "length": 171000,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              }
+            },
+            {
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 249000,
+              "title": "Nature Boy",
+              "position": 3,
+              "number": "A3"
+            },
+            {
+              "title": "I Can't Give You Anything but Love",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193000,
+              "position": 4,
+              "number": "A4"
+            },
+            {
+              "title": "I Won't Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 237000,
+              "position": 5,
+              "number": "A5"
+            },
+            {
+              "position": 6,
+              "number": "B1",
+              "title": "Firefly",
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 118000
+            },
+            {
+              "position": 7,
+              "number": "B2",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 255000,
+              "title": "Lush Life"
+            },
+            {
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229466,
+              "title": "Sophisticated Lady",
+              "position": 8,
+              "number": "B3"
+            },
+            {
+              "position": 9,
+              "number": "B4",
+              "title": "Let's Face the Music and Dance",
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 127000
+            },
+            {
+              "title": "But Beautiful",
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "number": "B5",
+              "position": 10
+            },
+            {
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143746,
+              "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+              "position": 11,
+              "number": "B6"
+            }
+          ]
+        }
+      ],
+      "label-info": [],
+      "id": "826e2623-2db0-4a4b-a6cb-c81c3d0df5fb",
+      "status": "Official",
+      "barcode": "602537988976",
+      "date": "2014-10-14"
+    },
+    {
+      "barcode": "602537988976",
+      "date": "2014-11-07",
+      "label-info": [],
+      "status": "Official",
+      "id": "994c1c05-b2bb-43af-823b-a28bbdcd1e54",
+      "media": [
+        {
+          "tracks": [
+            {
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 124000,
+              "title": "Anything Goes",
+              "position": 1,
+              "number": "A1"
+            },
+            {
+              "number": "A2",
+              "position": 2,
+              "length": 171000,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "title": "Cheek to Cheek"
+            },
+            {
+              "title": "Nature Boy",
+              "length": 249000,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "number": "A3",
+              "position": 3
+            },
+            {
+              "title": "I Can't Give You Anything but Love",
+              "length": 193000,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "number": "A4",
+              "position": 4
+            },
+            {
+              "length": 237000,
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "title": "I Won't Dance",
+              "number": "A5",
+              "position": 5
+            },
+            {
+              "title": "Firefly",
+              "length": 118000,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "number": "B1",
+              "position": 6
+            },
+            {
+              "title": "Lush Life",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 255000,
+              "position": 7,
+              "number": "B2"
+            },
+            {
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229466,
+              "title": "Sophisticated Lady",
+              "position": 8,
+              "number": "B3"
+            },
+            {
+              "number": "B4",
+              "position": 9,
+              "length": 127000,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let's Face the Music and Dance"
+            },
+            {
+              "number": "B5",
+              "position": 10,
+              "length": 244000,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "title": "But Beautiful"
+            },
+            {
+              "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+              "length": 143746,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "number": "B6",
+              "position": 11
+            }
+          ],
+          "format": "12\" Vinyl"
+        }
+      ],
+      "disambiguation": "",
+      "country": "XE",
+      "title": "Cheek to Cheek"
+    },
+    {
+      "title": "Cheek to Cheek",
+      "country": "US",
+      "disambiguation": "",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "length": 123000,
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "title": "Anything Goes",
+              "number": "1",
+              "position": 1
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "length": 170000,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "title": "Cheek to Cheek"
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "title": "Don’t Wait Too Long",
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "length": 156000
+            },
+            {
+              "number": "4",
+              "position": 4,
+              "length": 193000,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "title": "I Can’t Give You Anything but Love"
+            },
+            {
+              "title": "Nature Boy",
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248000,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "title": "Goody Goody",
+              "length": 131000,
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "number": "6",
+              "position": 6
+            },
+            {
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "length": 190000,
+              "title": "Ev’ry Time We Say Goodbye",
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "title": "Firefly",
+              "length": 117000,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              }
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236000,
+              "title": "I Won’t Dance"
+            },
+            {
+              "number": "10",
+              "position": 10,
+              "title": "They All Laughed",
+              "length": 108000,
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              }
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "title": "Lush Life",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254000
+            },
+            {
+              "title": "Sophisticated Lady",
+              "length": 229000,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "number": "12",
+              "position": 12
+            },
+            {
+              "position": 13,
+              "number": "13",
+              "title": "Let’s Face the Music and Dance",
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 126000
+            },
+            {
+              "title": "But Beautiful",
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244000,
+              "position": 14,
+              "number": "14"
+            },
+            {
+              "position": 15,
+              "number": "15",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143000,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)"
+            },
+            {
+              "number": "16",
+              "position": 16,
+              "title": "Lady’s in Love With You",
+              "length": 102000,
+              "recording": {
+                "id": "1247e8ab-d2a1-4158-bcfa-57b29522f235"
+              }
+            },
+            {
+              "position": 17,
+              "number": "17",
+              "recording": {
+                "id": "c9530fe3-70a7-47e5-aa7e-713839fbb97a"
+              },
+              "length": 197000,
+              "title": "The Lady Is a Tramp"
+            }
+          ]
+        }
+      ],
+      "status": "Official",
+      "id": "99bc58d1-598e-41f1-a2ce-972a0560ddd4",
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        },
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        },
+        {
+          "label": {
+            "name": "RPM Records"
+          }
+        },
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "date": "2014-09-23",
+      "barcode": "602537995776"
+    },
+    {
+      "disambiguation": "",
+      "country": "BR",
+      "title": "Cheek to Cheek",
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123973,
+              "title": "Anything Goes",
+              "position": 1,
+              "number": "1"
+            },
+            {
+              "position": 2,
+              "number": "2",
+              "title": "Cheek to Cheek",
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170546
+            },
+            {
+              "number": "3",
+              "position": 3,
+              "length": 156266,
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "title": "Don’t Wait Too Long"
+            },
+            {
+              "number": "4",
+              "position": 4,
+              "length": 193306,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "title": "I Can’t Give You Anything but Love"
+            },
+            {
+              "number": "5",
+              "position": 5,
+              "length": 248426,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "title": "Nature Boy"
+            },
+            {
+              "number": "6",
+              "position": 6,
+              "length": 131826,
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "title": "Goody Goody"
+            },
+            {
+              "position": 7,
+              "number": "7",
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "length": 190293,
+              "title": "Ev’ry Time We Say Goodbye"
+            },
+            {
+              "position": 8,
+              "number": "8",
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117640,
+              "title": "Firefly"
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "length": 236720,
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "title": "I Won’t Dance"
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "title": "They All Laughed",
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108560
+            },
+            {
+              "number": "11",
+              "position": 11,
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "title": "Lush Life"
+            },
+            {
+              "number": "12",
+              "position": 12,
+              "title": "Sophisticated Lady",
+              "length": 229453,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              }
+            },
+            {
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let’s Face the Music and Dance",
+              "number": "13",
+              "position": 13
+            },
+            {
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244080,
+              "title": "But Beautiful",
+              "position": 14,
+              "number": "14"
+            },
+            {
+              "number": "15",
+              "position": 15,
+              "length": 143400,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)"
+            },
+            {
+              "position": 16,
+              "number": "16",
+              "recording": {
+                "id": "b99be668-5fa8-4122-997e-598e957e2493"
+              },
+              "length": 154160,
+              "title": "On a Clear Day (You Can See Forever)"
+            },
+            {
+              "title": "Bewitched, Bothered and Bewildered",
+              "length": 187160,
+              "recording": {
+                "id": "def88090-3a7c-4a23-9e1d-80f342e345a5"
+              },
+              "number": "17",
+              "position": 17
+            },
+            {
+              "title": "The Lady Is a Tramp",
+              "length": 196973,
+              "recording": {
+                "id": "c9530fe3-70a7-47e5-aa7e-713839fbb97a"
+              },
+              "number": "18",
+              "position": 18
+            }
+          ]
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        }
+      ],
+      "id": "b0379ba6-af37-4078-8b9f-731820a7ac00",
+      "status": "Official",
+      "barcode": "602537998845",
+      "date": "2014-09-22"
+    },
+    {
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123973
+            },
+            {
+              "number": "2",
+              "position": 2,
+              "title": "Cheek to Cheek",
+              "length": 170546,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              }
+            },
+            {
+              "number": "3",
+              "position": 3,
+              "length": 156266,
+              "recording": {
+                "id": "dfac2606-ef01-4a08-bd36-fb09db71ca08"
+              },
+              "title": "Don’t Wait Too Long"
+            },
+            {
+              "title": "I Can’t Give You Anything but Love",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193306,
+              "position": 4,
+              "number": "4"
+            },
+            {
+              "title": "Nature Boy",
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248426,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "recording": {
+                "id": "87d07a01-2f4f-42af-a1ed-dd8a46e8b3c4"
+              },
+              "length": 131826,
+              "title": "Goody Goody",
+              "position": 6,
+              "number": "6"
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "length": 190293,
+              "recording": {
+                "id": "48b57786-96b2-42e3-aecb-573187568c36"
+              },
+              "title": "Ev’ry Time We Say Goodbye"
+            },
+            {
+              "number": "8",
+              "position": 8,
+              "title": "Firefly",
+              "length": 117640,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              }
+            },
+            {
+              "position": 9,
+              "number": "9",
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236720
+            },
+            {
+              "position": 10,
+              "number": "10",
+              "recording": {
+                "id": "5115cc06-7636-441a-88e5-e04c1e7b09c1"
+              },
+              "length": 108560,
+              "title": "They All Laughed"
+            },
+            {
+              "number": "11",
+              "position": 11,
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "title": "Lush Life"
+            },
+            {
+              "length": 229453,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "title": "Sophisticated Lady",
+              "number": "12",
+              "position": 12
+            },
+            {
+              "title": "Let’s Face the Music and Dance",
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "length": 126760,
+              "position": 13,
+              "number": "13"
+            },
+            {
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244080,
+              "title": "But Beautiful",
+              "position": 14,
+              "number": "14"
+            },
+            {
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143680,
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "position": 15,
+              "number": "15"
+            },
+            {
+              "number": "16",
+              "position": 16,
+              "length": 154066,
+              "recording": {
+                "id": "b99be668-5fa8-4122-997e-598e957e2493"
+              },
+              "title": "On a Clear Day (You Can See Forever)"
+            },
+            {
+              "recording": {
+                "id": "def88090-3a7c-4a23-9e1d-80f342e345a5"
+              },
+              "length": 187386,
+              "title": "Bewitched, Bothered and Bewildered",
+              "position": 17,
+              "number": "17"
+            }
+          ]
+        }
+      ],
+      "title": "Cheek to Cheek",
+      "country": "US",
+      "disambiguation": "Target exclusive",
+      "date": "2014-09-23",
+      "barcode": "602547013156",
+      "status": "Official",
+      "id": "c8f19030-99f8-4a27-a7af-b6ca34315ff1",
+      "label-info": [
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2014-09-24",
+      "barcode": "602537972289",
+      "status": "Official",
+      "id": "ca9e133a-e63f-418e-9fde-508244c7f84d",
+      "label-info": [
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "media": [
+        {
+          "format": "CD",
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123840,
+              "title": "Anything Goes"
+            },
+            {
+              "title": "Cheek to Cheek",
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "length": 170573,
+              "position": 2,
+              "number": "2"
+            },
+            {
+              "position": 3,
+              "number": "3",
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248506,
+              "title": "Nature Boy"
+            },
+            {
+              "position": 4,
+              "number": "4",
+              "title": "I Can’t Give You Anything but Love",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193480
+            },
+            {
+              "position": 5,
+              "number": "5",
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236680
+            },
+            {
+              "position": 6,
+              "number": "6",
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "length": 117573,
+              "title": "Firefly"
+            },
+            {
+              "position": 7,
+              "number": "7",
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254693,
+              "title": "Lush Life"
+            },
+            {
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229466,
+              "title": "Sophisticated Lady",
+              "position": 8,
+              "number": "8"
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "title": "Let’s Face the Music and Dance",
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              }
+            },
+            {
+              "length": 244040,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "title": "But Beautiful",
+              "number": "10",
+              "position": 10
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143746
+            }
+          ]
+        }
+      ],
+      "title": "Cheek to Cheek",
+      "country": "AU",
+      "disambiguation": ""
+    },
+    {
+      "barcode": "00602537972234",
+      "date": "2014-09-19",
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        },
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        },
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "id": "d11ad22e-6fb3-4a64-a252-65f035bd3243",
+      "status": "Official",
+      "media": [
+        {
+          "tracks": [
+            {
+              "position": 1,
+              "number": "1",
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123840
+            },
+            {
+              "length": 170573,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "title": "Cheek to Cheek",
+              "number": "2",
+              "position": 2
+            },
+            {
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "length": 248506,
+              "title": "Nature Boy",
+              "position": 3,
+              "number": "3"
+            },
+            {
+              "number": "4",
+              "position": 4,
+              "length": 193480,
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "title": "I Can’t Give You Anything but Love"
+            },
+            {
+              "title": "I Won’t Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236680,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "title": "Firefly",
+              "length": 117573,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              },
+              "number": "6",
+              "position": 6
+            },
+            {
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              },
+              "length": 254693,
+              "title": "Lush Life",
+              "position": 7,
+              "number": "7"
+            },
+            {
+              "title": "Sophisticated Lady",
+              "length": 229466,
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "number": "8",
+              "position": 8
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let’s Face the Music and Dance"
+            },
+            {
+              "title": "But Beautiful",
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "length": 244040,
+              "position": 10,
+              "number": "10"
+            },
+            {
+              "title": "It Don’t Mean a Thing (If It Ain’t Got That Swing)",
+              "length": 143746,
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "number": "11",
+              "position": 11
+            }
+          ],
+          "format": "Digital Media"
+        }
+      ],
+      "country": null,
+      "title": "Cheek to Cheek",
+      "disambiguation": ""
+    },
+    {
+      "title": "Cheek to Cheek",
+      "country": "US",
+      "disambiguation": "Starbucks",
+      "media": [
+        {
+          "tracks": [
+            {
+              "title": "Anything Goes",
+              "recording": {
+                "id": "dc3f6e3a-666c-412e-b7e7-3db2a94a31c7"
+              },
+              "length": 123840,
+              "position": 1,
+              "number": "1"
+            },
+            {
+              "title": "Cheek to Cheek",
+              "length": 170573,
+              "recording": {
+                "id": "0525369e-b459-49ea-acdd-841ade261610"
+              },
+              "number": "2",
+              "position": 2
+            },
+            {
+              "length": 248506,
+              "recording": {
+                "id": "a12aa2a9-597e-48cc-a686-9e834c35fd0c"
+              },
+              "title": "Nature Boy",
+              "number": "3",
+              "position": 3
+            },
+            {
+              "position": 4,
+              "number": "4",
+              "recording": {
+                "id": "809fd635-0061-48ed-ae93-a112de28868e"
+              },
+              "length": 193480,
+              "title": "I Can't Give You Anything but Love"
+            },
+            {
+              "title": "I Won't Dance",
+              "recording": {
+                "id": "9bc68bae-7eb2-4160-bf88-52c69eeededd"
+              },
+              "length": 236680,
+              "position": 5,
+              "number": "5"
+            },
+            {
+              "number": "6",
+              "position": 6,
+              "title": "Firefly",
+              "length": 117573,
+              "recording": {
+                "id": "75e6faeb-ef53-41a2-aee2-55b0fda5366a"
+              }
+            },
+            {
+              "number": "7",
+              "position": 7,
+              "title": "Lush Life",
+              "length": 254693,
+              "recording": {
+                "id": "61396e9b-7972-4c07-9928-90cc71c84516"
+              }
+            },
+            {
+              "recording": {
+                "id": "97d1c4a9-5aa5-4dce-83b5-46a3270e0d69"
+              },
+              "length": 229466,
+              "title": "Sophisticated Lady",
+              "position": 8,
+              "number": "8"
+            },
+            {
+              "number": "9",
+              "position": 9,
+              "length": 126760,
+              "recording": {
+                "id": "5f5483f1-77de-44c7-a7fa-792e849f43ee"
+              },
+              "title": "Let's Face the Music and Dance"
+            },
+            {
+              "title": "But Beautiful",
+              "length": 244040,
+              "recording": {
+                "id": "a2d4db1a-e93e-4b2a-adcd-97bff810d1a7"
+              },
+              "number": "10",
+              "position": 10
+            },
+            {
+              "position": 11,
+              "number": "11",
+              "recording": {
+                "id": "957f8f20-94c5-49e4-846c-b03532d8d225"
+              },
+              "length": 143746,
+              "title": "It Don't Mean a Thing (If It Ain't Got That Swing)"
+            }
+          ],
+          "format": "CD"
+        }
+      ],
+      "id": "d4287d0b-d0f5-47a7-9c00-7113c79e9ab1",
+      "status": "Official",
+      "label-info": [
+        {
+          "label": {
+            "name": "Columbia"
+          }
+        },
+        {
+          "label": {
+            "name": "Interscope Records"
+          }
+        },
+        {
+          "label": {
+            "name": "Streamline Records"
+          }
+        }
+      ],
+      "date": "2014-09-13",
+      "barcode": "602547004970"
+    }
+  ]
+}

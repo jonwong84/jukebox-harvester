@@ -1,0 +1,451 @@
+{
+  "_fixture": {
+    "sources": [
+      "artist-browse-p1.json",
+      "bootleg-metallica.json"
+    ],
+    "recorded": "2026-10-13",
+    "trimmed": true,
+    "synthetic": "partial",
+    "note": "Core fields only. Synthetic releases: 00000000-0000-4000-8000-000000000001 (Withdrawn) and 00000000-0000-4000-8000-000000000002 (Cancelled)."
+  },
+  "releases": [
+    {
+      "status": "Promotion",
+      "country": "US",
+      "date": "1993",
+      "barcode": null,
+      "id": "a163d744-7d41-3d43-98df-ae0fc80c842e",
+      "disambiguation": "",
+      "title": "Incunabula",
+      "media": [
+        {
+          "tracks": [
+            {
+              "number": "A1",
+              "length": 198600,
+              "recording": {
+                "id": "bb588c43-1ea1-46de-a4de-ac4f2ad4353b"
+              },
+              "title": "Kalpol Introl",
+              "position": 1
+            },
+            {
+              "length": 480133,
+              "number": "A2",
+              "recording": {
+                "id": "b5f573fe-01a3-46e0-a93c-75afe854d63b"
+              },
+              "title": "Bike",
+              "position": 2
+            },
+            {
+              "length": 415693,
+              "number": "A3",
+              "recording": {
+                "id": "e79b6769-16af-462d-bd5f-ce455d6fd9ce"
+              },
+              "title": "Autriche",
+              "position": 3
+            },
+            {
+              "position": 4,
+              "title": "Bronchus 2",
+              "recording": {
+                "id": "d7a44a99-5e9b-4151-b650-65f6cc3d50dd"
+              },
+              "number": "A4",
+              "length": 213373
+            },
+            {
+              "number": "A5",
+              "length": 323960,
+              "position": 5,
+              "title": "Basscadet",
+              "recording": {
+                "id": "f9176795-1bb3-4893-b791-65deafcc7c55"
+              }
+            },
+            {
+              "number": "A6",
+              "length": 542106,
+              "position": 6,
+              "recording": {
+                "id": "d4e69923-1b4e-48c1-84cd-9abf93784e20"
+              },
+              "title": "Eggshell"
+            },
+            {
+              "position": 7,
+              "title": "Doctrine",
+              "recording": {
+                "id": "cf4ea8b7-45c3-42e0-9c68-c375e8ad59b1"
+              },
+              "number": "B1",
+              "length": 468560
+            },
+            {
+              "position": 8,
+              "recording": {
+                "id": "0ff927b7-fbf0-4aab-b075-8dc210e1f305"
+              },
+              "title": "Maetl",
+              "number": "B2",
+              "length": 392933
+            },
+            {
+              "recording": {
+                "id": "db6645a7-9f5a-4202-918d-7d2a0b03e457"
+              },
+              "title": "Windwind",
+              "position": 9,
+              "number": "B3",
+              "length": 677200
+            },
+            {
+              "length": 436000,
+              "number": "B4",
+              "position": 10,
+              "title": "Lowride",
+              "recording": {
+                "id": "7ed5687c-d006-4dd3-9780-9f7200dfe6f1"
+              }
+            },
+            {
+              "position": 11,
+              "recording": {
+                "id": "7853e669-ced2-4944-b187-738d2d836c40"
+              },
+              "title": "444",
+              "number": "B5",
+              "length": 535440
+            }
+          ],
+          "format": "Cassette"
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Wax Trax! Records"
+          }
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "format": "Cassette",
+          "tracks": [
+            {
+              "number": "A",
+              "length": null,
+              "position": 1,
+              "recording": {
+                "id": "3c867bc1-9222-4ca7-ab9d-5455123d460d"
+              },
+              "title": "Autechre"
+            },
+            {
+              "recording": {
+                "id": "8b8eabbb-a984-4f70-9f05-519868be7963"
+              },
+              "title": "Saw You",
+              "position": 2,
+              "length": null,
+              "number": "B"
+            }
+          ]
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "[no label]"
+          }
+        }
+      ],
+      "disambiguation": "",
+      "title": "Autechre / Saw You",
+      "id": "ec1ecfcc-f529-43d1-8aa6-2c7051ede00c",
+      "barcode": "",
+      "date": "1990",
+      "status": "Promotion",
+      "country": "GB"
+    },
+    {
+      "country": "US",
+      "disambiguation": "",
+      "status": "Bootleg",
+      "media": [
+        {
+          "track-count": 14,
+          "format": "Digital Media"
+        }
+      ],
+      "date": "1985-03-15",
+      "id": "15ab569b-fe10-4bff-ae9c-f2eac36c37cd",
+      "title": "1985-03-15: Kabuki Theater, San Francisco, California, USA",
+      "barcode": null
+    },
+    {
+      "country": "US",
+      "disambiguation": "",
+      "status": "Bootleg",
+      "media": [
+        {
+          "format": "Digital Media",
+          "track-count": 10
+        }
+      ],
+      "date": "1982-11-30",
+      "id": "178400e7-06f4-4ca9-a100-ee769e3b9941",
+      "title": "1982-11-30: Mabuhay Gardens, San Francisco, CA, USA",
+      "barcode": null
+    },
+    {
+      "status": "Withdrawn",
+      "country": "US",
+      "date": "1993",
+      "barcode": null,
+      "id": "00000000-0000-4000-8000-000000000001",
+      "disambiguation": "synthetic",
+      "title": "Incunabula",
+      "media": [
+        {
+          "tracks": [
+            {
+              "number": "A1",
+              "length": 198600,
+              "recording": {
+                "id": "bb588c43-1ea1-46de-a4de-ac4f2ad4353b"
+              },
+              "title": "Kalpol Introl",
+              "position": 1
+            },
+            {
+              "length": 480133,
+              "number": "A2",
+              "recording": {
+                "id": "b5f573fe-01a3-46e0-a93c-75afe854d63b"
+              },
+              "title": "Bike",
+              "position": 2
+            },
+            {
+              "length": 415693,
+              "number": "A3",
+              "recording": {
+                "id": "e79b6769-16af-462d-bd5f-ce455d6fd9ce"
+              },
+              "title": "Autriche",
+              "position": 3
+            },
+            {
+              "position": 4,
+              "title": "Bronchus 2",
+              "recording": {
+                "id": "d7a44a99-5e9b-4151-b650-65f6cc3d50dd"
+              },
+              "number": "A4",
+              "length": 213373
+            },
+            {
+              "number": "A5",
+              "length": 323960,
+              "position": 5,
+              "title": "Basscadet",
+              "recording": {
+                "id": "f9176795-1bb3-4893-b791-65deafcc7c55"
+              }
+            },
+            {
+              "number": "A6",
+              "length": 542106,
+              "position": 6,
+              "recording": {
+                "id": "d4e69923-1b4e-48c1-84cd-9abf93784e20"
+              },
+              "title": "Eggshell"
+            },
+            {
+              "position": 7,
+              "title": "Doctrine",
+              "recording": {
+                "id": "cf4ea8b7-45c3-42e0-9c68-c375e8ad59b1"
+              },
+              "number": "B1",
+              "length": 468560
+            },
+            {
+              "position": 8,
+              "recording": {
+                "id": "0ff927b7-fbf0-4aab-b075-8dc210e1f305"
+              },
+              "title": "Maetl",
+              "number": "B2",
+              "length": 392933
+            },
+            {
+              "recording": {
+                "id": "db6645a7-9f5a-4202-918d-7d2a0b03e457"
+              },
+              "title": "Windwind",
+              "position": 9,
+              "number": "B3",
+              "length": 677200
+            },
+            {
+              "length": 436000,
+              "number": "B4",
+              "position": 10,
+              "title": "Lowride",
+              "recording": {
+                "id": "7ed5687c-d006-4dd3-9780-9f7200dfe6f1"
+              }
+            },
+            {
+              "position": 11,
+              "recording": {
+                "id": "7853e669-ced2-4944-b187-738d2d836c40"
+              },
+              "title": "444",
+              "number": "B5",
+              "length": 535440
+            }
+          ],
+          "format": "Cassette"
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Wax Trax! Records"
+          }
+        }
+      ]
+    },
+    {
+      "status": "Cancelled",
+      "country": "US",
+      "date": "1993",
+      "barcode": null,
+      "id": "00000000-0000-4000-8000-000000000002",
+      "disambiguation": "synthetic",
+      "title": "Incunabula",
+      "media": [
+        {
+          "tracks": [
+            {
+              "number": "A1",
+              "length": 198600,
+              "recording": {
+                "id": "bb588c43-1ea1-46de-a4de-ac4f2ad4353b"
+              },
+              "title": "Kalpol Introl",
+              "position": 1
+            },
+            {
+              "length": 480133,
+              "number": "A2",
+              "recording": {
+                "id": "b5f573fe-01a3-46e0-a93c-75afe854d63b"
+              },
+              "title": "Bike",
+              "position": 2
+            },
+            {
+              "length": 415693,
+              "number": "A3",
+              "recording": {
+                "id": "e79b6769-16af-462d-bd5f-ce455d6fd9ce"
+              },
+              "title": "Autriche",
+              "position": 3
+            },
+            {
+              "position": 4,
+              "title": "Bronchus 2",
+              "recording": {
+                "id": "d7a44a99-5e9b-4151-b650-65f6cc3d50dd"
+              },
+              "number": "A4",
+              "length": 213373
+            },
+            {
+              "number": "A5",
+              "length": 323960,
+              "position": 5,
+              "title": "Basscadet",
+              "recording": {
+                "id": "f9176795-1bb3-4893-b791-65deafcc7c55"
+              }
+            },
+            {
+              "number": "A6",
+              "length": 542106,
+              "position": 6,
+              "recording": {
+                "id": "d4e69923-1b4e-48c1-84cd-9abf93784e20"
+              },
+              "title": "Eggshell"
+            },
+            {
+              "position": 7,
+              "title": "Doctrine",
+              "recording": {
+                "id": "cf4ea8b7-45c3-42e0-9c68-c375e8ad59b1"
+              },
+              "number": "B1",
+              "length": 468560
+            },
+            {
+              "position": 8,
+              "recording": {
+                "id": "0ff927b7-fbf0-4aab-b075-8dc210e1f305"
+              },
+              "title": "Maetl",
+              "number": "B2",
+              "length": 392933
+            },
+            {
+              "recording": {
+                "id": "db6645a7-9f5a-4202-918d-7d2a0b03e457"
+              },
+              "title": "Windwind",
+              "position": 9,
+              "number": "B3",
+              "length": 677200
+            },
+            {
+              "length": 436000,
+              "number": "B4",
+              "position": 10,
+              "title": "Lowride",
+              "recording": {
+                "id": "7ed5687c-d006-4dd3-9780-9f7200dfe6f1"
+              }
+            },
+            {
+              "position": 11,
+              "recording": {
+                "id": "7853e669-ced2-4944-b187-738d2d836c40"
+              },
+              "title": "444",
+              "number": "B5",
+              "length": 535440
+            }
+          ],
+          "format": "Cassette"
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Wax Trax! Records"
+          }
+        }
+      ]
+    }
+  ]
+}
