@@ -2,5 +2,9 @@
   <Folder Name="/src/">
     <Project Path="src/Harvester.Data/Harvester.Data.csproj" />
     <Project Path="src/Harvester.Service/Harvester.Service.csproj" />
+    <Project Path="src/Jukebox.Harvester.Transform/Jukebox.Harvester.Transform.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Jukebox.Harvester.Transform.Tests/Jukebox.Harvester.Transform.Tests.csproj" />
   </Folder>
 </Solution>
